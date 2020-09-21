@@ -1,0 +1,114 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(../img/patron1.jpg);
+}
+
+#principal{
+    width: 1280px;
+    height: auto;
+    background: rgb(31, 31, 31);
+    margin: auto;
+} 
+
+#gamecont{
+    width: 37.5%;
+    height: 250px;
+    background: blue;
+}
+
+#gameimg{
+    width: 100%;
+    height: 100%;
+}
+
+nav{
+    width: 100%;
+    height: 50px;
+    background: brown;
+}
+
+ul{
+    list-style-type: none;
+    background: #acacac;
+
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    padding: 16px 136.3px;
+    color: #d6d6d6;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background: rgb(206, 52, 52);
+}
+
+header{
+    width: 100%;
+    height: 300px;
+    background-color: teal;
+    overflow: hidden;
+}
+
+#headergow{
+    width: 100%;
+    height: 150%;
+}
+
+#empty{
+    width: 100%;
+    height: 30px;
+}
+
+.empty{
+    width: 100%;
+    height: 30px;
+    float: left;
+    background-color: rgb(31, 31, 31);
+}
+
+#sectionizq{
+    width: 50%;
+    height: 800px;
+    background-color: tomato;
+    float: left;
+}
+
+#sectionder{
+    width: 50%;
+    height: 800px;
+    background-color: rgb(250, 142, 123);
+    float: left;
+}
+
+.banner{
+    width: 50%;
+    height: 150px;
+    float: left;
+    background-color: teal;
+}
+
+.redes{
+    width: 12.5%;
+    height: 50px;
+    float: left;
+    background-color: thistle;
+}
+
+#name{
+    width: 62.5%;
+    height: 50px;
+    background-color: turquoise;
+    float: left;
+}
