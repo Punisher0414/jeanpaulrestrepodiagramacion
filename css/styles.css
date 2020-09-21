@@ -340,3 +340,44 @@ h1{
     font-size: 16.5px;
     color: #D9D9D9;
 }
+
+/*Especifico para pagina de reinos*/
+
+#section4{
+    width: 100%;
+    height: 800px;
+    background-color: rgb(131, 34, 34);
+    float: left;
+}
+
+.imgboxes4{
+    width: 330px;
+    height: 250px;
+    background-color: rgba(100, 29, 29, 0.644);
+    float: left;
+    margin-left: 72.5px;
+    margin-top: 70px;
+}
+
+.txtboxes4{
+    width: 330px;
+    height: 390px;
+    background-color: rgba(100, 29, 29, 0.644);
+    float: left;
+    margin-top: 20px;
+    margin-left: 72.5px;
+}
+
+.imgs4{
+    width: 100%;
+    height: 100%;
+}
+
+.txt4{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 16.5px;
+    color: #D9D9D9;
+}
